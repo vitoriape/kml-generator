@@ -1,4 +1,4 @@
-# KML Generator <img src="https://snipboard.io/rlh6gz.jpg" width="10%" height="00%" align="right" valign="middle"/>
+# KML Generator <img src="https://snipboard.io/8BDJOT.jpg" width="10%" height="00%" align="right" valign="middle"/>
 Excel & VBA Based KML Generator for Geolocation Visualization on Google Earth and GIS Tools
 
 <div align="center">
