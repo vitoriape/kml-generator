@@ -89,7 +89,7 @@ branco
 ### Input Example
 | Link Description | Latitude       | Longitude       | IconText | Drive                | IconCor |
 |------------------|----------------|-----------------|----------|----------------------|---------|
-| Folder           | -22.958273°    | -43.065060°     | Casa 57  | https://drive/folder | azul    |
+| Folder           | 37.235000°     | -115.811111°    | Galpão   | https://drive/folder | amarelo |
 
 ### Generate KML
 ```
